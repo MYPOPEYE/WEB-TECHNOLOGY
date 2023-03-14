@@ -1,0 +1,6 @@
+def greet():
+    #declare local variable
+    print('Local',message)
+greet()
+print('Global',message)
+    
